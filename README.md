@@ -7,3 +7,5 @@ Today, we have a wide variety of apps/sites to get internships/jobs but noticing
   - [Sanjana Doss](https://github.com/sanjanadoss)
   - [Vighnesh Shankar](https://github.com/VighneshShankar23)
   - [M AUTHISELVI](https://github.https://github.com/WOLFskin01)
+
+This project was submitted as part of What's the hack? hackathon competition conducted by ASCII - club of Amrita school of engineering. 
