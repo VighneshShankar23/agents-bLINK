@@ -3,6 +3,8 @@ Today, we have a wide variety of apps/sites to get internships/jobs but noticing
 
 ![BLink](https://user-images.githubusercontent.com/70975084/126063604-976405c9-45ef-46cc-b348-2a821f5396af.png)
 
+(p.s : view the pdf version to clear out the annoying alighnment issues xD)
+
 ### Built by
   - [Sanjana Doss](https://github.com/sanjanadoss)
   - [Vighnesh Shankar](https://github.com/VighneshShankar23)
